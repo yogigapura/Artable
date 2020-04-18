@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Artable
+//  ArtableAdmin
 //
 //  Created by yogi on 03/04/20.
 //  Copyright © 2020 ardiga. All rights reserved.
